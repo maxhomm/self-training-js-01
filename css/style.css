@@ -18,3 +18,8 @@ body {
     font-weight: 700;
     color: #fff;
 }
+
+.text-1 {
+    font-size: 20px;
+    color: rgb(70, 21, 4);
+}
