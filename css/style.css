@@ -2,7 +2,7 @@ body {
     background-color: rgba(133, 168, 219, 0.867);
 }
 
-/* .showcase {
+.showcase {
     margin: auto;
     width: 65%;
     background-color:rgb(75, 143, 7);
@@ -12,4 +12,4 @@ body {
     font-size: 30px;
     font-weight: 700;
     color: #fff;
-} */
+}
