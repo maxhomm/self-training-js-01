@@ -2,6 +2,11 @@ body {
     background-color: rgba(133, 168, 219, 0.867);
 }
 
+.introduction {
+    font-size: 22px;
+    color: #36fa04;
+}
+
 .showcase {
     margin: auto;
     width: 65%;
